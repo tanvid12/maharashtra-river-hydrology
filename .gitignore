@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv-1/
+.venv312/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Research outputs
+!outputs/
+outputs/*
+!outputs/Koyna_forecast_evaluation.png
+!outputs/Koyna_model_metrics.csv
+!outputs/Koyna_feature_importance.csv
+!outputs/Koyna_test_predictions.csv
